@@ -1,0 +1,23 @@
+{
+  "name": "use-lodash",
+  "version": "0.0.1-alpha.0",
+  "description": "A really terrible React Hook that is illustrative in other ways ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chantastic/use-lodash.git"
+  },
+  "author": "Michael Chan <mijoch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chantastic/use-lodash/issues"
+  },
+  "homepage": "https://github.com/chantastic/use-lodash#readme",
+  "peerDependencies": {
+    "lodash": "^4.17.11",
+    "react": "^16.7.0-alpha.0"
+  }
+}
